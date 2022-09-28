@@ -1,0 +1,15 @@
+.comment-container {
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  background-color: rgb(238, 238, 238);
+  border-radius: 20px;
+  margin: 0 20px;
+}
+
+.comment-input {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
